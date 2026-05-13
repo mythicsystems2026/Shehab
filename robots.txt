@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mythicsystems2026.github.io/Shehab/sitemap.xml
+Sitemap: https://shehab.kesug.com/sitemap.xml
